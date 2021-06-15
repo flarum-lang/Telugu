@@ -1,6 +1,3 @@
-**This is template for Flarum language pack. If you want to use it, follow [these instructions](https://github.com/rob006-software/flarum-lang-template/wiki).**
-
----------
 
 # Telugu language pack for [Flarum](https://flarum.org/)
 
