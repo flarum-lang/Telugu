@@ -10,3 +10,4 @@ core:
       title: 'పాస్వర్డ్ మార్చు'
     composer:
       close_tooltip: మూసివేయి
+      exit_full_screen_tooltip: '‎ఫుల్ స్క్రీన్ నుంచి నిష్క్రమించు‎'
