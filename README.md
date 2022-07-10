@@ -1,4 +1,3 @@
-
 # Telugu language pack for [Flarum](https://flarum.org/)
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/flarum-lang/telugu?color=success&label=stable)](https://packagist.org/packages/flarum-lang/telugu) 
@@ -40,8 +39,8 @@ php flarum cache:clear
 
 | Component | Status |
 | --- | --- |
-| [Core](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/xx/) |
-| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/xx/) |
+| [Core](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/te/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/te/) |
+| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/te/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/te/) |
 
 
 ## Translation status for official extensions
@@ -88,6 +87,6 @@ php flarum cache:clear
 
 This language pack is part of [Flarum translations collective](https://github.com/rob006-software/flarum-translations).
 
-Translation for Day.js comes from the [source](https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/xx.js).
+Translation for Day.js comes from the [source](https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/te.js).
 
-Translation for `validation.yml` is based on [Laravel translations](https://github.com/Laravel-Lang/lang/blob/8.1.3/src/xx/validation.php).
+Translation for `validation.yml` is based on [Laravel translations](https://github.com/Laravel-Lang/lang/blob/8.1.3/src/te/validation.php).
